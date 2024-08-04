@@ -1,0 +1,10 @@
+Thẻ <ul></ul> : danh sách không có thứ tự
+Thẻ <ol></ol> : danh sách có thứ tự
+Thẻ <li></li> : thẻ con trực tiếp trong ul, ol
+
+
+Thẻ <a></a> (anchor) : gắn kèm liên kết, email, phone
+<a href="link">nội dung</a>
+
+
+Thẻ <img src="link hình ảnh" />
